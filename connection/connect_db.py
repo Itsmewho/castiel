@@ -16,7 +16,7 @@ MONGO_COLLECTIONS = {
     "audit_log": os.getenv("MONGO_AUDIT"),
     "renaissance": os.getenv("MONGO_RENTECH"),
     "bridgewater": os.getenv("MONGO_BRIDGE"),
-    "robotti": os.getenv("MONGO_ROBOT"),
+    "citadel": os.getenv("MONGO_CITADEL"),
     "top_company": os.getenv("MONGO_TOP"),
     "starting_profit": os.getenv("MONGO_PROF"),
 }

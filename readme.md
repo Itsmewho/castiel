@@ -1,6 +1,6 @@
 ## Overview
 
-This plan aims to leverage APIs to fetch financial data (13-F-HR filings, 10-Q, and 10-K reports) for three companies: Renaissance Technologies, Bridgewater Associates, and Robotti Company.
+This plan aims to leverage APIs to fetch financial data (13-F-HR filings, 10-Q, and 10-K reports) for three companies: Renaissance Technologies, Bridgewater Associates, and Citadel.
 The data will be processed, sorted, and analyzed to identify the top-performing companies and perform due diligence calculations.
 The results will be stored in MongoDB collections and Redis will be used for caching and deduplication.
 The login system belongs to my boilerplate and can be used when the application is ready.
