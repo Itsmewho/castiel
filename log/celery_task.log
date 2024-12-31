@@ -1,0 +1,7 @@
+2024-12-30 00:48:45,567 - INFO - [32mRedis cache cleaned successfully.[0m
+2024-12-30 00:48:45,585 - INFO - [32mWeekly 30F filings updated successfully.[0m
+2024-12-30 00:49:59,136 - INFO - [32mRedis cache cleaned successfully.[0m
+2024-12-30 00:49:59,158 - INFO - [32mWeekly 30F filings updated successfully.[0m
+2024-12-30 00:57:34,102 - INFO - [32mRedis cache cleaned successfully.[0m
+2024-12-30 00:57:34,116 - INFO - [32mWeekly 30F filings updated successfully.[0m
+2024-12-30 00:57:34,125 - INFO - [32mCleared Celery task metadata and routing keys.[0m
