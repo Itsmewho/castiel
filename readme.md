@@ -99,7 +99,7 @@ The login system belongs to my boilerplate and can be used when the application 
      - `due_diligence.py`: Perform due diligence calculations.
    - `api/`:
      - `fetch_10q_10k.py`: Get finacial data.
-     - `fetch_30f.py`: Fetch 30f filings.
+     - `fetch_13f.py`: Fetch 13f-hr filings.
      - `fetch_news.py`: Fetch corresponding news.
    - `connection/`:
      - `connect_db.py`: Connect MONGO_DB.
